@@ -1,0 +1,7 @@
+D:\Workspage\C#\HoangVanQuocNhat_332\LINQ\Phan3\Bai20\Bai20\bin\Debug\Bai20.exe.config
+D:\Workspage\C#\HoangVanQuocNhat_332\LINQ\Phan3\Bai20\Bai20\bin\Debug\Bai20.exe
+D:\Workspage\C#\HoangVanQuocNhat_332\LINQ\Phan3\Bai20\Bai20\bin\Debug\Bai20.pdb
+D:\Workspage\C#\HoangVanQuocNhat_332\LINQ\Phan3\Bai20\Bai20\obj\Debug\Bai20.csproj.AssemblyReference.cache
+D:\Workspage\C#\HoangVanQuocNhat_332\LINQ\Phan3\Bai20\Bai20\obj\Debug\Bai20.csproj.CoreCompileInputs.cache
+D:\Workspage\C#\HoangVanQuocNhat_332\LINQ\Phan3\Bai20\Bai20\obj\Debug\Bai20.exe
+D:\Workspage\C#\HoangVanQuocNhat_332\LINQ\Phan3\Bai20\Bai20\obj\Debug\Bai20.pdb

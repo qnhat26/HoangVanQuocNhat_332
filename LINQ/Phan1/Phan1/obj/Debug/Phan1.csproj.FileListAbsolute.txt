@@ -1,0 +1,7 @@
+D:\Workspage\C#\HoangVanQuocNhat_332\LINQ\Phan1\Phan1\bin\Debug\Phan1.exe.config
+D:\Workspage\C#\HoangVanQuocNhat_332\LINQ\Phan1\Phan1\bin\Debug\Phan1.exe
+D:\Workspage\C#\HoangVanQuocNhat_332\LINQ\Phan1\Phan1\bin\Debug\Phan1.pdb
+D:\Workspage\C#\HoangVanQuocNhat_332\LINQ\Phan1\Phan1\obj\Debug\Phan1.csproj.AssemblyReference.cache
+D:\Workspage\C#\HoangVanQuocNhat_332\LINQ\Phan1\Phan1\obj\Debug\Phan1.csproj.CoreCompileInputs.cache
+D:\Workspage\C#\HoangVanQuocNhat_332\LINQ\Phan1\Phan1\obj\Debug\Phan1.exe
+D:\Workspage\C#\HoangVanQuocNhat_332\LINQ\Phan1\Phan1\obj\Debug\Phan1.pdb

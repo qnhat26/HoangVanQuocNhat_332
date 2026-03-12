@@ -1,0 +1,7 @@
+D:\Workspage\C#\HoangVanQuocNhat_332\LINQ\Phan3\Bai17\Bai17\bin\Debug\Bai17.exe.config
+D:\Workspage\C#\HoangVanQuocNhat_332\LINQ\Phan3\Bai17\Bai17\bin\Debug\Bai17.exe
+D:\Workspage\C#\HoangVanQuocNhat_332\LINQ\Phan3\Bai17\Bai17\bin\Debug\Bai17.pdb
+D:\Workspage\C#\HoangVanQuocNhat_332\LINQ\Phan3\Bai17\Bai17\obj\Debug\Bai17.csproj.AssemblyReference.cache
+D:\Workspage\C#\HoangVanQuocNhat_332\LINQ\Phan3\Bai17\Bai17\obj\Debug\Bai17.csproj.CoreCompileInputs.cache
+D:\Workspage\C#\HoangVanQuocNhat_332\LINQ\Phan3\Bai17\Bai17\obj\Debug\Bai17.exe
+D:\Workspage\C#\HoangVanQuocNhat_332\LINQ\Phan3\Bai17\Bai17\obj\Debug\Bai17.pdb
