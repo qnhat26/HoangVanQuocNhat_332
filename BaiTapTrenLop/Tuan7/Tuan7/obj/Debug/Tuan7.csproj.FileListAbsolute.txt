@@ -1,0 +1,7 @@
+D:\Workspage\C#\Tuan7\Tuan7\bin\Debug\Tuan7.exe.config
+D:\Workspage\C#\Tuan7\Tuan7\bin\Debug\Tuan7.exe
+D:\Workspage\C#\Tuan7\Tuan7\bin\Debug\Tuan7.pdb
+D:\Workspage\C#\Tuan7\Tuan7\obj\Debug\Tuan7.csproj.AssemblyReference.cache
+D:\Workspage\C#\Tuan7\Tuan7\obj\Debug\Tuan7.csproj.CoreCompileInputs.cache
+D:\Workspage\C#\Tuan7\Tuan7\obj\Debug\Tuan7.exe
+D:\Workspage\C#\Tuan7\Tuan7\obj\Debug\Tuan7.pdb
