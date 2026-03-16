@@ -1,0 +1,7 @@
+D:\Workspage\C#\OnTap\OnTap\bin\Debug\OnTap.exe.config
+D:\Workspage\C#\OnTap\OnTap\bin\Debug\OnTap.exe
+D:\Workspage\C#\OnTap\OnTap\bin\Debug\OnTap.pdb
+D:\Workspage\C#\OnTap\OnTap\obj\Debug\OnTap.csproj.AssemblyReference.cache
+D:\Workspage\C#\OnTap\OnTap\obj\Debug\OnTap.csproj.CoreCompileInputs.cache
+D:\Workspage\C#\OnTap\OnTap\obj\Debug\OnTap.exe
+D:\Workspage\C#\OnTap\OnTap\obj\Debug\OnTap.pdb
